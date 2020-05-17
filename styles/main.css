@@ -14,7 +14,9 @@ ul {
   padding: 0; }
 
 .gallery {
-  margin: 15%; }
+  position: absolute;
+  top: 10%;
+  left: 15%; }
   .gallery__list {
     display: -webkit-box;
     display: -ms-flexbox;
