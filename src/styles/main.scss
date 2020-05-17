@@ -9,7 +9,9 @@ ul {
 }
 
 .gallery {
-  margin: 15%;
+  position: absolute;
+  top: 10%;
+  left: 15%;
 
   &__list {
     display: flex;
